@@ -1,0 +1,1 @@
+# dynamiczne-szukanie-najd-uszego-wzorca
